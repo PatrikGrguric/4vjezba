@@ -1,0 +1,73 @@
+body {
+	background: linear-gradient(to right, #363636, #5c5c5c, #363636);
+}
+
+.naslov {
+	margin: 20px;
+	text-shadow: 2px 2px #333;
+	text-align: left;
+	font-family: Arial;
+	font-size: 36px;
+	color: white;
+	text-decoration: underline;
+}
+
+.div1 {
+	background: radial-gradient(#545454, #2d2d2d);
+	box-shadow: 8px 8px 5px #333;
+	color: white;
+	margin: 20px;
+	float: left;
+	width: 60%;
+	height: 900px;
+	border: 2px solid #00e105;
+	outline: 4px solid #009603;
+	padding: 30px;
+}
+
+.div2 {
+	background: radial-gradient(#545454, #2d2d2d);
+	box-shadow: 8px 8px 5px #333;
+	color: white;
+	margin: 20px;
+	float: right;
+	width: 20%;
+	height: 900px;
+	border: 2px solid #00e105;
+	outline: 4px solid #009603;
+	text-align: center;
+	padding: 30px;
+}
+
+.img1 {
+	width: 320px;
+	height: 180px;
+	vertical-align: baseline;
+}
+
+.knjiga1 {
+	width: 94px;
+	height: 140px;
+}
+
+.knjiga2 {
+	width: 110px;
+	height: 150px;
+}
+
+pre {
+	letter-spacing: 5px;
+	direction: ltr;
+	line-height: 20px;
+	word-spacing: 5px;
+	
+}
+
+.p1 {
+	text-indent: 2cm;
+}
+
+h2 {
+	text-transform: uppercase;
+	white-space: normal;
+}
